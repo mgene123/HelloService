@@ -20,7 +20,7 @@ namespace WebServiceHello
         [WebMethod]
         public string Welcome()
         {
-            return "Hello in this ";
+            return "go to hell please ";
         }
     }
 }
