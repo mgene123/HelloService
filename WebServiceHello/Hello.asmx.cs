@@ -20,7 +20,7 @@ namespace WebServiceHello
         [WebMethod]
         public string Welcome()
         {
-            return "please confirm about this data  ";
+            return "can you can a can ";
         }
     }
 }
