@@ -31,3 +31,35 @@ c:\users\a\documents\visual studio 2015\Projects\WebServiceHello\WebServiceHello
 c:\users\a\documents\visual studio 2015\Projects\WebServiceHello\WebServiceHello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\a\documents\visual studio 2015\Projects\WebServiceHello\WebServiceHello\obj\Debug\WebServiceHello.dll
 c:\users\a\documents\visual studio 2015\Projects\WebServiceHello\WebServiceHello\obj\Debug\WebServiceHello.pdb
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\ApplicationInsights.config
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\csc.exe
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\System.Collections.Immutable.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\System.Reflection.Metadata.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\vbc.exe
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\VBCSCompiler.exe
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\roslyn\VBCSCompiler.exe.config
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\WebServiceHello.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\WebServiceHello.pdb
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.Agent.Intercept.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.DependencyCollector.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.Web.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.WindowsServer.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.ApplicationInsights.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.DependencyCollector.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.Web.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.AI.WindowsServer.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.ApplicationInsights.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\obj\Debug\WebServiceHello.csprojResolveAssemblyReference.cache
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\obj\Debug\WebServiceHello.dll
+E:\MOTAZ\Git project\WebServiceHello\WebServiceHello\obj\Debug\WebServiceHello.pdb
